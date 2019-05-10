@@ -8,3 +8,5 @@ How to run the project:
 Analysis and model development by Mohammadreza Hajy Heydary
 User Interface by Kunal Matthews
 Data retrieval from Zillow by Don Feng
+
+Note: Trained models and datasets are not uploaded due to size limitations
